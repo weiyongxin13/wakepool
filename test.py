@@ -13,3 +13,4 @@ if __name__ == '__main__':
     test=Test()
     test.print_word("hehe")
     print_hehe("qqqqqq")
+    print("jsowejro")
